@@ -3,7 +3,7 @@
 
 **`Software Engineer (Python Developer | Back-end | Mechatronics Engineer)`**
 
-I'm a Python backend developer, science tutor, and content creator, building my version of the digital world one step at a time. My coding projects are designed from the ground up—starting with planning and architecture, all the way to solving real-world problems using Python, Django, and AWS. My content follows the same process, from ideation and scripting to producing engaging educational and technical videos. I share this knowledge across platforms like YouTube, LinkedIn, and Instagram, helping others learn and grow in software development.
+I'm a Python backend developer and Mechatronics Engineer, building my version of the digital world one step at a time. My coding projects are designed from the ground up—starting with planning and architecture, all the way to solving real-world problems using Python, Django, and AWS. I enjoy tackling challenges, optimizing performance, and developing scalable solutions that make an impact. Beyond coding, I also read books about financial literacy, self-help, negotiation and body language taking my entrepreneurship to the next level.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -19,6 +19,7 @@ I'm a Python backend developer, science tutor, and content creator, building my 
 ---
 
 ### 🧰 Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
