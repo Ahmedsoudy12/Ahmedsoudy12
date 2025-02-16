@@ -23,7 +23,7 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
 
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
 
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://www.django-rest-framework.org/img/logo.png" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-FlJIWEjzqqJ07jjWJlhoAjU7gKLX_EQ_w&s" />
 
 
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
