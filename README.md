@@ -21,7 +21,7 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 
-<i align="left" alt="Spring" width="30px" style="padding-right:10px;" class="devicon-django-plain"></i>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
 
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
 
