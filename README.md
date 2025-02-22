@@ -1,4 +1,4 @@
-# 🏄‍♂️ Ahmed_Soudy
+# Ahmed_Soudy
 
 **`Software Engineer (Python Developer | Back-end | Mechatronics Engineer)`**
 
@@ -78,7 +78,7 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
    </tr>
   <td align="center">
       <a href="https://github.com/Ahmedsoudy12/Django-CRM">
-        <img src="https://market-resized.envatousercontent.com/previews/files/101016168/2a.UCM-CRM-dashboard-desktop.png?w=590&h=300&cf_fit=crop&crop=top&format=auto&q=85&s=d440adcef1a2e8e14c9613e30a4aed7de2b7e7374e2ad3ec18f5bd0f092135e7" alt="Project 2" width="300px"/>
+        <img src="https://drive.google.com/file/d/1962LApjhaRyMPTVv5-QZmxHhrtlj2D2w/view?usp=sharing" alt="Project 2" width="300px"/>
         <br />
         <span style="color: white; text-decoration: none;"><strong>CRM-website</strong></span>
       </a>
