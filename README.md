@@ -54,11 +54,11 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/Ahmedsoudy12/E-Commerce-website">
-        <img src="https://5.imimg.com/data5/SELLER/Default/2023/6/321372487/KY/RT/GD/46495242/ecommerce-website-development-services.png" alt="Project 1" width="300px"/>
+  <td align="center">
+      <a href="https://github.com/Ahmedsoudy12/autonomous_scooter_computer_vision">
+        <img src="https://i.dailymail.co.uk/i/pix/2016/11/23/10/3AAEF04200000578-0-image-a-20_1479898789239.jpg" alt="Project 2" width="300px"/>
         <br />
-        <span style="color: white; text-decoration: none;"><strong>E-Commerce-website</strong></span>
+        <span style="color: white; text-decoration: none;"><strong>Autonomous Guide Vehicle - Lane keeping system</strong></span>
       </a>
     </td>
     <td align="center">
@@ -92,10 +92,10 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ahmedsoudy12/autonomous_scooter_computer_vision">
-        <img src="https://i.dailymail.co.uk/i/pix/2016/11/23/10/3AAEF04200000578-0-image-a-20_1479898789239.jpg" alt="Project 2" width="300px"/>
+      <a href="https://github.com/Ahmedsoudy12/E-Commerce-website">
+        <img src="https://5.imimg.com/data5/SELLER/Default/2023/6/321372487/KY/RT/GD/46495242/ecommerce-website-development-services.png" alt="Project 1" width="300px"/>
         <br />
-        <span style="color: white; text-decoration: none;"><strong>Autonomous Guide Vehicle - Lane keeping system</strong></span>
+        <span style="color: white; text-decoration: none;"><strong>E-Commerce-website</strong></span>
       </a>
     </td>
     </tr>
