@@ -56,14 +56,14 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
   <tr>
     <td align="center">
       <a href="https://github.com/Ahmedsoudy12/E-Commerce-website">
-        <img src="https://code4berry.com/img/works/ecommerce.jpg" alt="Project 1" width="300px"/>
+        <img src="https://5.imimg.com/data5/SELLER/Default/2023/6/321372487/KY/RT/GD/46495242/ecommerce-website-development-services.png" alt="Project 1" width="300px"/>
         <br />
         <span style="color: white; text-decoration: none;"><strong>E-Commerce-website</strong></span>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Ahmedsoudy12/Auction-website">
-        <img src="https://www.orientsoftware.com/Themes/Content/Images/blog/2023-06-05/how-to-build-auction-website.jpg" alt="Project 3" width="300px"/>
+        <img src="https://miro.medium.com/v2/resize:fit:1080/1*TbYPvS_RHynJtBWqaohvig.png" alt="Project 3" width="300px"/>
         <br />
         <span style="color: white; text-decoration: none;"><strong>Auction-website</strong></span>
       </a>
@@ -78,7 +78,7 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
    </tr>
   <td align="center">
       <a href="https://github.com/Ahmedsoudy12/Django-CRM">
-        <img src="https://drive.google.com/file/d/1962LApjhaRyMPTVv5-QZmxHhrtlj2D2w/view?usp=sharing" alt="Project 2" width="300px"/>
+        <img src="https://w7.pngwing.com/pngs/102/93/png-transparent-customer-relationship-management-computer-software-microsoft-dynamics-crm-business-text-people-logo-thumbnail.png" alt="Project 2" width="300px"/>
         <br />
         <span style="color: white; text-decoration: none;"><strong>CRM-website</strong></span>
       </a>
