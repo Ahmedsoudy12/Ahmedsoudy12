@@ -56,21 +56,21 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
   <tr>
     <td align="center">
       <a href="https://github.com/Ahmedsoudy12/E-Commerce-website">
-        <img src="https://code4berry.com/img/works/ecommerce.jpg" alt="Project 1" width="200px"/>
+        <img src="https://code4berry.com/img/works/ecommerce.jpg" alt="Project 1" width="300px"/>
         <br />
         <strong>E-Commerce-website</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Ahmedsoudy12/Django-CRM">
-        <img src="https://market-resized.envatousercontent.com/previews/files/101016168/2a.UCM-CRM-dashboard-desktop.png?w=590&h=300&cf_fit=crop&crop=top&format=auto&q=85&s=d440adcef1a2e8e14c9613e30a4aed7de2b7e7374e2ad3ec18f5bd0f092135e7" alt="Project 2" width="200px"/>
+        <img src="https://market-resized.envatousercontent.com/previews/files/101016168/2a.UCM-CRM-dashboard-desktop.png?w=590&h=300&cf_fit=crop&crop=top&format=auto&q=85&s=d440adcef1a2e8e14c9613e30a4aed7de2b7e7374e2ad3ec18f5bd0f092135e7" alt="Project 2" width="300px"/>
         <br />
         <strong>CRM Website</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Ahmedsoudy12/Auction-website">
-        <img src="https://www.orientsoftware.com/Themes/Content/Images/blog/2023-06-05/how-to-build-auction-website.jpg" alt="Project 3" width="200px"/>
+        <img src="https://www.orientsoftware.com/Themes/Content/Images/blog/2023-06-05/how-to-build-auction-website.jpg" alt="Project 3" width="300px"/>
         <br />
         <strong>Auction-website</strong>
       </a>
