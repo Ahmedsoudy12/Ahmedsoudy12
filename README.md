@@ -76,6 +76,7 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
       </a>
     </td>
    </tr>
+   <tr>
   <td align="center">
       <a href="https://github.com/Ahmedsoudy12/Django-CRM">
         <img src="https://w7.pngwing.com/pngs/102/93/png-transparent-customer-relationship-management-computer-software-microsoft-dynamics-crm-business-text-people-logo-thumbnail.png" alt="Project 2" width="300px"/>
@@ -83,5 +84,13 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
         <span style="color: white; text-decoration: none;"><strong>CRM-website</strong></span>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Ahmedsoudy12/Django-CRM">
+        <img src="https://lvivity.com/wp-content/uploads/2018/11/mobile-app-for-restaurant.jpg" alt="Project 2" width="300px"/>
+        <br />
+        <span style="color: white; text-decoration: none;"><strong>CRM-website</strong></span>
+      </a>
+    </td>
+    </tr>
 </table>
 
