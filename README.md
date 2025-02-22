@@ -69,7 +69,7 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
       </a>
     </td>
   <td align="center">
-      <a href="https://github.com/Ahmedsoudy12/Django-CRM">
+      <a href="">
         <img src="https://i.imgur.com/A562ntR.png" alt="Project 2" width="300px"/>
         <br />
         <span style="color: white; text-decoration: none;"><strong>Cryptocurrency Trading Bot</strong></span>
@@ -85,10 +85,10 @@ I'm a Python backend developer and Mechatronics Engineer, building my version of
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ahmedsoudy12/Django-CRM">
+      <a href="https://github.com/Ahmedsoudy12/food-menu-app">
         <img src="https://lvivity.com/wp-content/uploads/2018/11/mobile-app-for-restaurant.jpg" alt="Project 2" width="300px"/>
         <br />
-        <span style="color: white; text-decoration: none;"><strong>CRM-website</strong></span>
+        <span style="color: white; text-decoration: none;"><strong>Food Menu website</strong></span>
       </a>
     </td>
     </tr>
